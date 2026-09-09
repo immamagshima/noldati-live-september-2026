@@ -1,0 +1,12 @@
+{
+  "name": "noldati-day4-worth",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-09-09",
+  "account_id": "0da28a91b99f5b342d42e041634b7a97",
+  "workers_dev": true,
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "noldati-day4-worth-db",
+    "database_id": "771e9e91-34c1-49a3-9ea0-4c05c87bad07"
+  }]
+}
